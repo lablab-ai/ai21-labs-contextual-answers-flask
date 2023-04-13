@@ -1,5 +1,7 @@
 # ai21-labs-contextual-answers-flask
+
 How to create a contextual answer app with AI21 Labs API and Flask
+
 ---
 
 [![Artificial Intelligence Hackathons, tutorials and Boilerplates](https://storage.googleapis.com/lablab-static-eu/images/github/lablab-banner.jpg)](https://lablab.ai)
